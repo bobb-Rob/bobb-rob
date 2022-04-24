@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I am Robertson Arthur-Akpan 👋
+
+### About me
+- It's my pleasure to introduce myself. I am a self-taught remote software development 
+- Hungry for knowledge; knows Javascript, React, with some basics of Node.js and basics of data analytics. currently learning more with the Microverse community.
+- Having various hobbies love to do anytime like : 1. Exploring new things 2. Drumming 3. Playing game
 
 <!--
 **bobb-Rob/bobb-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
