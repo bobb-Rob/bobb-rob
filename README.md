@@ -1,7 +1,6 @@
 ## Hi there, I am Robertson Arthur-Akpan 👋
 > ### About me
-> - I am a self-taught software developer seeking full time on-site and ***preferably*** remote jobs/opportunities. 
-> - Currently, I am working on a 
+> - I am a self-taught software developer seeking full time on-site and ***preferably*** remote jobs/opportunities.
 > - Hungry for knowledge; knows Javascript, React, with some basics of Node.js and basics of data analytics. currently learning more with the Microverse community.
 > - My various hobbies : 1. Exploring new things 2. Drumming 3. Playing game
 
