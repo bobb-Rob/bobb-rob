@@ -29,13 +29,12 @@ Tools & IDE
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobb-rob&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Good skill level with the following Graphic Softwares
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-
-
 
 <!--
 **bobb-Rob/bobb-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
