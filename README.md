@@ -6,7 +6,7 @@
 
 ### Get in touch
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertson-akpan-6895a0123/) [![Twitter](https://img.shields.io/twitter/follow/___Robertson?label=Robertson%20Arthur&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/___Robertson)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertsonakpan/) [![Twitter](https://img.shields.io/twitter/follow/___Robertson?label=Robertson%20Arthur&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/___Robertson)
 ---
 
 ## 🛠 &nbsp;Tech Stack
